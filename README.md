@@ -49,7 +49,7 @@ Na data estipulada pelo recrutador, assegure-se de ter sua aplicação em execu�
 
 ## [:books: Sobre o desafio técnico](#books-sobre-o-desafio-técnico)
 ### [:arrow_right: Cenário](#arrow_right-cenário) 
-Como parte da equipe de desenvolvimento da Brudam, você foi designado para liderar a implementação de uma tela de rastreamento de entregas. A diretoria está ansiosa para oferecer aos clientes uma experiência mais transparente e detalhada sobre o status de suas cargas em trânsito. Para isso, foi disponibilidado dois endpoints para que você possa consumir essas informações.
+Como parte da equipe de desenvolvimento da Brudam, você foi designado para liderar a implementação de uma tela de rastreamento de entregas. A diretoria está ansiosa para oferecer aos clientes uma experiência mais transparente e detalhada sobre o status de suas cargas em trânsito. Para isso, foi disponibilizado dois endpoints para que você possa consumir essas informações.
 
 ### [:arrow_right: Endpoints](#arrow_right-endpoints) 
 
@@ -112,9 +112,9 @@ Um requisito fundamental é implementar um banco de dados para armazenar as info
 ### [:arrow_right: Observação sobre o teste](arrow_right-observação-sobre-o-teste)
   1. O teste tem como objetivo verificar sua habilidade em lógica de programação, independentemente da experiência prévia. Ele também avaliará seu entendimento sobre assuntos e contextos relacionados às tecnologias web.
    
-  2. Fique à vontade para escolher o framework no qual você se sinta mais confortável. Não temos preferência específica neste teste. No entanto, é importante considerar as tecnologias mencionadas na vaga para a qual você está se candidatando. Recomendamos que escolha aquele com o qual você se sinta mais seguro para apresentar e discutir durante a entrevista conosco.
+  2. Para a realização desse teste é PRÉ-REQUISITO: Você deve obtar por utilizar essas tecnologias, usar mais de uma ou escolher a melhor para você: PHP, JavaScript, HTML, CSS, jQuery, Vue.js, Angular ou React, banco de dados (relaciona ou não fica a sua escolha). 
   
-  3. No âmbito deste teste, o foco primordial reside na implementação essencial do que foi proposto. Isso implica que a parte visual (front-end) não terá um papel decisivo na avaliação. 
+  3. No âmbito deste teste, o foco primordial reside na implementação essencial do que foi proposto. 
 
 ## [:dart: Consideramos um diferencial](#dart-consideramos-um-diferencial)
 - Uso de Design Patterns
